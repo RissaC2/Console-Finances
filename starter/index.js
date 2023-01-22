@@ -104,12 +104,18 @@ var finances = [
 ['Feb-2017', 671099]
 ];
 // * The total number of months included in the dataset.
-console.log("Total number of months="=finances.length);
-var totalmonths=finance.length;
-console.log(finance.length,.,)
+console.log("Total number of months="+finances.length);
+
+//Total number of 
 
 // * The net total amount of Profit/Losses over the entire period.
 
-console.log(Object.keys(finances));
+console.log(Object.keys(finances))
 console.log(Object.values(finances))
+console.log(Object.entries(finances))
 
+var total=0;
+for(var i=0; i<finances.length;i++) {
+    total += finances [i][1];
+}
+console.log(nettotal);

@@ -25,7 +25,7 @@ Images\Screenshot_20230123_223937.png
 ![Screenshot_20230123_223937](https://user-images.githubusercontent.com/105446766/214174316-6173f4b1-d9d6-4074-94bd-5613722a25cb.png)
 
 
-## Deplyed link
+## Deployed link
 https://rissac2.github.io/Console-Finances/
 
 ## License

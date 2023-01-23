@@ -2,7 +2,7 @@
 
 ## Description
 
-I will be creating code for analyzing the financial records of a company. I have usded Java script to create this data.
+I will be creating code for analyzing the financial records of a company. I have used Java script to create this data.
 
 The data can be found in the counsole.
 
